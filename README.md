@@ -1,6 +1,6 @@
 # ESM_Tutorial
 Using Earth System Models: A Tutorial <br>
-https://www.youtube.com/playlist?list=PLYJuWYhfyGeP37K9wJEwdUP5J4aCxnai_<br>
+https://www.youtube.com/playlist?list=PLYJuWYhfyGeP37K9wJEwdUP5J4aCxnai_ <br>
 This is a linl to a YouTube channel that contains the videos of this tutorial. This repository contains the python, MATLAB, and bash codes that are covered in these videos. These videos are as follows:
 
 #### Part 1. Using Earth system models:<br>
