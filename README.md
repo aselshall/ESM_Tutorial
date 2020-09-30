@@ -2,10 +2,8 @@
 Using Earth System Models: A Tutorial
 https://www.youtube.com/playlist?list=PLYJuWYhfyGeP37K9wJEwdUP5J4aCxnai_
 
-Part 1. Using Earth system models:
-
+Part 1. Using Earth system models: <br>
 1.1 A short introduction 
-
 1.2 Sea surface height and Loop Current as an example
  
 Part 2. Accessing the outputs of Earth system models:
