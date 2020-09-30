@@ -1,12 +1,12 @@
 # ESM_Tutorial
-Using Earth System Models: A Tutorial
+Using Earth System Models: A Tutorial <br>
 https://www.youtube.com/playlist?list=PLYJuWYhfyGeP37K9wJEwdUP5J4aCxnai_
 
-Part 1. Using Earth system models: <br>
+### Part 1. Using Earth system models: <br>
 1.1 A short introduction 
 1.2 Sea surface height and Loop Current as an example
  
-Part 2. Accessing the outputs of Earth system models:
+## Part 2. Accessing the outputs of Earth system models:
 2.1 CMIP6 data search on ESGF, PRIMAVERA and CEDA
 2.2 Installing Anaconda, Python, Jupyter Notebook, Jupyter Lab and spyder on Windows 10  
 2.3 CMIP6 data download using python for a single-model 
