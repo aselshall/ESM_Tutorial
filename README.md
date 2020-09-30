@@ -8,8 +8,8 @@ https://www.youtube.com/playlist?list=PLYJuWYhfyGeP37K9wJEwdUP5J4aCxnai_ <br>
  
 #### Part 2. Accessing the outputs of Earth system models:
 2.1 CMIP6 data search on ESGF, PRIMAVERA and CEDA <br>
-2.2 Installing Anaconda, Python, Jupyter Notebook, Jupyter Lab and spyder on Windows 10 <br>  
-2.3 CMIP6 data download using python for a single-model <br>
+2.2 Installing Anaconda, Python, Jupyter Notebook, Jupyter Lab and spyder on Windows 10<br>  
+2.3 CMIP6 data download using python for a single-model<br>
 2.4 CMIP6 data download using python for a single-model ensemble <br> 
 2.5 CMIP6 data download using python for a multi-model ensemble <br>
 2.6 Quick netCDF data access and visualization with Panoply <br>
