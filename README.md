@@ -2,9 +2,9 @@
 Using Earth System Models: A Tutorial <br>
 https://www.youtube.com/playlist?list=PLYJuWYhfyGeP37K9wJEwdUP5J4aCxnai_ <br>
 
-#### Part 1. Using Earth system models: <br>
-1.1 A short introduction <br>
-1.2 Sea surface height and Loop Current as an example <br>
+#### Part 1. Using Earth system models:<br>
+1.1 A short introduction<br>
+1.2 Sea surface height and Loop Current as an example<br>
  
 #### Part 2. Accessing the outputs of Earth system models:
 2.1 CMIP6 data search on ESGF, PRIMAVERA and CEDA <br>
